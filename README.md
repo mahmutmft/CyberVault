@@ -7,7 +7,7 @@ Welcome to **CyberVault**, a repository of fun and weird tools for exploring eth
 - **Keyloggers**: ✅ Basic keylogging scripts to demonstrate how they work.
 - **Malware Simulations**: ✅ Educational scripts showcasing how ransomware and other malware work in a controlled environment.
 - **Password Crackers**: 🚧 Work in progress.
-- **Network Sniffers**: 🚧 Work in progress.
+- **Network Sniffers**: ✅ Demonstrations of packet capture and analysis scripts, showcasing how network sniffing works in a controlled and educational environment.
 - **Phishing Simulations**: 🚧 Work in progress.
 - **System Vulnerability Scanners**: 🚧 Work in progress.
 - **Reverse Engineering Tools**: 🚧 Work in progress.
